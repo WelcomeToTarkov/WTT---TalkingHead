@@ -1,0 +1,24 @@
+{
+    "manifest": [
+        {
+            "key": "voices/Cheech/Audio/cheech_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Cheech/Voices/cheech_voice.bundle",
+            "dependencyKeys": [
+                "voices/Cheech/Audio/cheech_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/ChongVoice/Audio/chong_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/ChongVoice/Voices/chong_voice.bundle",
+            "dependencyKeys": [
+                "voices/ChongVoice/Audio/chong_audio.bundle"
+            ]
+        }
+    ]
+}

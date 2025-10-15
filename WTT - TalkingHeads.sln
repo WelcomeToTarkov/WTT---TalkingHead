@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8982E8CA-03FA-499C-9394-F1CADE8B7DCF}") = "WTT-LoudMouth", "WTT - LoudMouth\WTT-LoudMouth.csproj", "{86215F44-36A5-425F-A661-7A89D3BD37E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-BigHead", "WTT - BigHead\WTT-BigHead.csproj", "{F1AA9177-3B64-45D5-A686-6F3176976CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86215F44-36A5-425F-A661-7A89D3BD37E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86215F44-36A5-425F-A661-7A89D3BD37E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86215F44-36A5-425F-A661-7A89D3BD37E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86215F44-36A5-425F-A661-7A89D3BD37E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AA9177-3B64-45D5-A686-6F3176976CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AA9177-3B64-45D5-A686-6F3176976CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AA9177-3B64-45D5-A686-6F3176976CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AA9177-3B64-45D5-A686-6F3176976CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,48 @@
+{
+    "manifest": [
+        {
+            "key": "voices/Cheech/Audio/cheech_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Cheech/Voices/cheech_voice.bundle",
+            "dependencyKeys": [
+                "voices/Cheech/Audio/cheech_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/ChongVoice/Audio/chong_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/ChongVoice/Voices/chong_voice.bundle",
+            "dependencyKeys": [
+                "voices/ChongVoice/Audio/chong_audio.bundle"
+            ]
+        },
+        {
+            "key": "glasses/chong_glasses.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/chong.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/mexican_american.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}
